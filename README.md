@@ -12,6 +12,6 @@ I'm looking for an internship or junior role where I can learn from a team and w
 ## 📚 Currently learning
 - SQL and databases
 - FastAPI
-- 
+
 ## 📫 Contact
 - Email: Amir.Malek.dev@gmail.com
