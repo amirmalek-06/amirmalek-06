@@ -13,5 +13,8 @@ I'm looking for an internship or junior role where I can learn from a team and w
 - SQL and databases
 - FastAPI
 
+## 🚀 Projects
+- [learning-django-pyshop](https://github.com/amirmalek-06/learning-django-pyshop): Django product page with a responsive Bootstrap grid
+
 ## 📫 Contact
 - Email: Amir.Malek.dev@gmail.com
